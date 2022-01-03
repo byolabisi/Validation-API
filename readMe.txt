@@ -1,6 +1,6 @@
 
 
-NodeJS Backend Engineer (Intern)
+NodeJS Backend Engineer
 
 The task:
 Create a simple rule-validation API.
@@ -27,14 +27,15 @@ Your rule-validation API should have just two routes:
 It should return with data in the following format:
 
 {
+
   "message": "My Rule-Validation API"
   "status": "success",
   "data": {
-    "name": "Amos Burton",
-    "github": "@amosburton",
-    "email": "amosburton@rocinantecrew.com",
-    "mobile": "08069920011",
-    "twitter": "@amosb"
+  "name": "Olabisi Emmanuel",
+  "github": "@byolabisi",
+  "email": "olabisi.io@icloud.com",
+  "mobile": "+2348164575552",
+  "twitter": "@byolabisi"
   }
 }
 
