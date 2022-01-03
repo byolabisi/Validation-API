@@ -1,6 +1,6 @@
 ﻿﻿﻿﻿﻿
 #Rules-validation API
-This app is live at [ayoflwsolution.herokuapp.com](ayoflwsolution.herokuapp.com) (GET)
+This is live at [byolabisi.herokuapp.com](byolabisi.herokuapp.com) (GET)
 
 The directions below guide the requests and responses that can be sent to it.
 
@@ -49,15 +49,15 @@ It should return with data in the following format:
 
   "data": {
 
-  "name": "Amos Burton",
+  "name": "Olabisi Emmanuel",
 
-  "github": "@amosburton",
+  "github": "@byolabisi",
 
-  "email": "amosburton@rocinantecrew.com",
+  "email": "olabisi.io@icloud.com",
 
-  "mobile": "08069920011",
+  "mobile": "+2348164575552",
 
-  "twitter": "@amosb"
+  "twitter": "@byolabisi"
 
   }
 
