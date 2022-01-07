@@ -1,5 +1,5 @@
-﻿﻿﻿﻿﻿
 #Rules-validation API
+
 This is live at [byolabisi.herokuapp.com](byolabisi.herokuapp.com) (GET)
 
 The directions below guide the requests and responses that can be sent to it.
