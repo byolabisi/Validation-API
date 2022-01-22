@@ -1,4 +1,4 @@
-// Gateway to the app. API set up with security and monitoring packaages.
+/// Gateway to the app. API set up with security and monitoring packaages.
 
 const express = require('express');
 
