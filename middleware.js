@@ -84,5 +84,4 @@ function ruleFieldValidation(req, res, next){
     }
 }
 
-
 module.exports = { catchInvalidPayload, requiredFields, checkForSpecifiedField, ruleFieldValidation } 
