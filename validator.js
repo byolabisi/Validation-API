@@ -1,4 +1,4 @@
-/// Defines the required fields and rules schemas.
+// Defines the required fields and rules schemas.
 
 const joi = require('joi')
 
