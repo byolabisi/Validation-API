@@ -56,7 +56,7 @@ The route should accept JSON data containing a rule and data field to validate t
   },
   "data": {
     "name": "James Holden",
-    "crew": "Rocinante",
+    "crew": "Rocinant",
     "age": 34,
     "position": "Captain",
     "missions": 45
