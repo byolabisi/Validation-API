@@ -461,7 +461,7 @@ Response: (HTTP 400)
 "condition": "contains",
 "condition_value": "rocinante"
 },
-"data": ["The Nauvoo", "The Razorback", "The Roci", "Tycho"]
+"data": ["The Nauvoo", "The Razorback", "The Rocinate", "Tycho"]
 }
 ```
 
