@@ -464,7 +464,6 @@ Response: (HTTP 400)
 "data": ["The Nauvoo", "The Razorback", "The Rocinate", "Tycho"]
 }
 ```
-
 ```
 Response: (HTTP 400)
 
